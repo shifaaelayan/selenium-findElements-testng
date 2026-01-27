@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-27T22:24:29 AST" name="Default suite" finished-at="2026-01-27T22:24:48 AST" duration-ms="19468">
+    <groups>
+    </groups>
+    <test started-at="2026-01-27T22:24:29 AST" name="Default test" finished-at="2026-01-27T22:24:48 AST" duration-ms="19468">
+      <class name="findelements.TestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:findelements.TestCases@56303b57]" started-at="2026-01-27T22:24:29 AST" name="setup" finished-at="2026-01-27T22:24:34 AST" duration-ms="5163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:findelements.TestCases@56303b57]" started-at="2026-01-27T22:24:34 AST" name="login" finished-at="2026-01-27T22:24:34 AST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addElements()[pri:2, instance:findelements.TestCases@56303b57]" started-at="2026-01-27T22:24:34 AST" name="addElements" finished-at="2026-01-27T22:24:35 AST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addElements -->
+        <test-method signature="removeElements()[pri:3, instance:findelements.TestCases@56303b57]" started-at="2026-01-27T22:24:35 AST" name="removeElements" finished-at="2026-01-27T22:24:48 AST" duration-ms="13267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeElements -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:findelements.TestCases@56303b57]" started-at="2026-01-27T22:24:48 AST" name="cleanup" finished-at="2026-01-27T22:24:48 AST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- findelements.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
