@@ -80,7 +80,7 @@ public class TestCases {
 			    String itemName = itemNames.get(i).getText();
 
 			    Thread.sleep(1000);
-			    js.executeScript("alert(arguments[0] + ' has been added')", itemName);
+			    js.executeScript("alert(arguments[0] + ' has been removed')", itemName);
 			    Thread.sleep(1000);
 
 			    driver.switchTo().alert().accept(); // click OK on alerts
